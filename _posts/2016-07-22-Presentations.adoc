@@ -1,6 +1,6 @@
 = Présentations
 Je suis Nicolas Chaillot, informaticien autodidacte tarvaillant dana la région Nantaise. "Passionné" du mystère de Rennes-le-Château depuis des années (j'indique "pasioné" entre guillemets car plus lecteur très attentif que chercheur). Lisant et relisant les différents posts trouvés ici et là sur différents forums au milieu d'une nuée de commentaires plus ou moins intéressants et/ou crédibles, je me décide un jour, en août 2009, à faire une alte dans le petit village perchée de l'Aude pour y sentir l'atmosphère que j'imaginais pleine de mystères. Makheureusement, peu oragnisé, je ne l'atteins qu'en toute fin d'après-midi alors que les visites de l'église et le domaine de l'abbé Saunières viennent de fermer leurs portes. Malgré tout, se fut une expérience inoubliable, contourant l'ensemble du domaine pusi remontant par un chemin escarpé derrière le château, je pu contempler la magnifique vue qui nous ai proposée. Puis le temps passant, j'oubli peu à peu cet endroit pour mieux le retrouver en août 2014 où je passe une semaine de vacances non loin de là, à Saint-Jean-de-Paracol sur la route entre Couiza et Puivert. J'en profilte alors pour m'imprégner encore un peu plus de l'ambiance du lieu : visite de l'église en journée et visite guidée "nocture" du domaine. Je rescend de mon petit nuage audois en me jurant, cette fois, de m'investir plus à fond dans la quête du trésor de l'abbé.
-Encore une fois, le quotidien prenant le dessus, j'oubliais très vite le petit village du sud-ouest...
+Encore une fois, le quotidien prenant le dessus, j'oubliais très vite le petit village du sud-ouest.
 Mais comme un refrain qui renvient sans cesse, les deux Rennes me reviennent en tête courant mai 2016, date à laquelle je reprend mes recherches sur le web afin de me remettre à niveaux sur les dernières trouvailles des "vrais" chercheurs".
 
 Avant ce nouveau plongeon dans les méandres des forums consacrés à RLC, voici un résumé de mes connaissances sur l'affaire :
@@ -8,4 +8,4 @@ Avant ce nouveau plongeon dans les méandres des forums consacrés à RLC, voici
 
 
 :published_at: 2016-07-22
-:hp-tags: nicolaschaillot, rennes-le-chateau, sougraigne, pech, couty, daffos, rennes-les-bains, marceille, aude, saunière
+:hp-tags: nicolaschaillot, rennes-le-chateau, sougraigne, pech, couty, daffos, rennes-les-bains, Marceille, aude, saunière
