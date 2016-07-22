@@ -1,6 +1,6 @@
 = Introduction
 :published_at: 2016-07-22
-:hp-tags: nicolaschaillot, rennes-le-chateau, sougraigne, pech, couty, daffos, rennes-les-bains, Marceille, Aude, saunière
+:hp-tags: rennes-le-chateau, franck daffos, rennes-les-bains, Marceille, Aude, Saunière, Trésor
 
 Je suis Nicolas Chaillot, informaticien autodidacte travaillant dana la région Nantaise et "passionné" du mystère de Rennes-le-Château depuis des années (j'indique "passionné" entre guillemets car plus lecteur attentif que chercheur). 
 
