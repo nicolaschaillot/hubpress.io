@@ -4,7 +4,12 @@
     "repositoryName": "pechdencouty",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "A la lecture des livre de Franck Daffos sur \"L'Affaire des deux Rennes\"",
+    "description": "A la lecture des livre de Franck Daffos sur \"L'affaire des deux Rennes\""
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "uno"
   }
 }
